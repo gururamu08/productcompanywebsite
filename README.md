@@ -732,13 +732,23 @@ Publish the website in the given URL.
 ![h1](https://user-images.githubusercontent.com/118707009/214038341-a93bef18-4b1a-4cd8-a1c4-4a30336b11a0.png)
 ### People :
 ![p1](https://user-images.githubusercontent.com/118707009/214038488-30c8d39a-f00a-463d-89b6-23cd2eb6f2d1.png)
+
 ![p2](https://user-images.githubusercontent.com/118707009/214038524-7e30c677-49da-4721-8c69-d52f1a0a880b.png)
 
+![p3](https://user-images.githubusercontent.com/118707009/214074305-0cb4e075-6991-4dcc-b80e-8b803cb91ac7.png)
+
+![p4](https://user-images.githubusercontent.com/118707009/214074365-55fd323d-464a-4975-874b-efab0281e659.png)
 
 
 ### Products:
+![pr1](https://user-images.githubusercontent.com/118707009/214074416-a98054aa-532b-4325-a967-666afb7fbf28.png)
+
+![pr2](https://user-images.githubusercontent.com/118707009/214074452-595be9c7-4980-4cb6-8db6-894d10b201cf.png)
+
 
 ### Contact:
+
+![con](https://user-images.githubusercontent.com/118707009/214074543-f1a7d9a1-f39e-43ce-83c5-b4615b1e18b6.png)
 
 ## Result:
 
